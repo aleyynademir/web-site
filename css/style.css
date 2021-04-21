@@ -1,0 +1,144 @@
+@charset "utf-8";
+
+#header{
+	width:800px;
+	height:100px;
+	margin:15px auto 15px auto;
+	display:table;
+	background:	#BCAAA4;
+}
+
+
+#content{
+	width:810px;
+	height:auto;
+	background:	#A1887F;
+	padding:10px 15px 10px 15px;
+	margin:20px auto 20px auto;
+	display:table;
+	
+}
+#content h1 , #content .sayfabanner {
+	margin: 0 auto  0 auto;
+	display: table;
+	height:auto;
+	
+}
+#content .yazialani p{
+	font-size:20px;
+    box-shadow:5px 5px 20px #000;
+    padding:20px 10px 20px 10px;
+    width:600px;
+	margin:0 auto 0 auto;
+    	
+	
+}
+
+
+
+#footer{
+	margin:0 auto 0 auto;
+	display:table;
+	padding:10px 15px 10px 15px;
+	width:770px;
+	height:20px;
+	background:#A1887F;
+}
+#footer p{
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+ 
+.yemeksitesilogo{
+	margin:10px auto 10px auto;
+	display:table;
+	width:300px;
+	height:auto;
+	
+}
+.menu {
+	margin:40px auto 20px auto;
+	display:table;
+}
+.menu li{
+	float:left;
+	list-style-type:none;
+	margin-right:20px;
+	
+}
+.menu li a{
+	color:#795548 ;
+	font-size:30px;
+	text-decoration:none;
+	border:2px solid #5D4037;
+	padding:10px 10px;
+	
+}
+.menu li a:hover{
+	color:#f00;
+	border:lpx solid #f00;
+	
+	
+}
+.urunler {
+	
+}
+.urunler .urun {
+	width:200px;
+	height:auto;
+	margin:15px 15px 15px 15px;
+	padding:30px 30px 30px 30px;
+	box-shadow:50px 40px 100px #000;
+	text-align:center;
+}
+.urunler .urun img{
+	width:200%;
+	height:auto;
+	
+}
+
+.title {
+	text-shadow: 2px 2px 1px #000;
+}
+
+.ani ul {
+	list-style-type:none;
+	margin:20px auto 20px auto;
+	display:block;
+}
+.ani li {
+	position:relative;
+	float:left;
+	width:150spx;
+	margin:10px 10px 10px 10px;
+	padding:20px 20px 20px 20px;
+}
+.ani ul li ul {
+	float:left;
+	display:none;
+	margin:10px auto 10px auto ;
+	padding:20px  20px 20px 20px;
+	
+	width:100px;
+	height:auto;
+	
+}
+.ani ul li:hover ul {
+	
+	display:block;
+}
+.ani li a {
+	text-decoration:none;
+	padding:15px 15px;
+	display:block;
+	padding:8px;
+	text-align:center;
+}
+
+
+
+
+
+
